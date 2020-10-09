@@ -15,9 +15,6 @@ runs:
 branding:
   icon: "mic"
   color: "purple"
-Stage and commit the changes
-
-Push the changes to GitHub
 
 jobs:
   build:
